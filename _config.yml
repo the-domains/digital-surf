@@ -1,16 +1,16 @@
-typography_spectrum: 0.4909497173503041
+typography_spectrum: 0.5491213104687631
 color:
-  brandStrength: 0.7234533645678312
-  lightness: 0.9332882359158248
-  saturation: 0.11690513230860233
-  rhythmicContrast: 0.9201812811661512
+  brandStrength: 0.7611241897102445
+  lightness: 0.21060520177707076
+  saturation: 0.3599816523492336
+  rhythmicContrast: 0.3187205533031374
   brandColors:
-    - '#00585F'
-    - '#009393'
-    - '#FFFCC4'
-    - '#F0EDBB'
-    - '#FF3800'
-layout_spectrum: 0.5173937913496047
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.5918777293991297
 name: Digital Surf
 title: Digital Surf
-description: Surfing the web and waves
+description: From waves to web
