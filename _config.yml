@@ -1,4 +1,3 @@
-layout_spectrum: 0.5918777293991297
 typography_spectrum: 0.5491213104687631
 color:
   brandStrength: 0.7611241897102445
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.5918777293991297
 name: Digital Surf
+title: Digital Surf
 description: Surfing the web and waves
