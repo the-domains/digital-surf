@@ -6,9 +6,10 @@ color:
   saturation: 0.3599816523492336
   rhythmicContrast: 0.3187205533031374
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: Digital Surf
+description: Surfing the web and waves
