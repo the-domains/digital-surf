@@ -1,0 +1,14 @@
+layout_spectrum: 0.5918777293991297
+typography_spectrum: 0.5491213104687631
+color:
+  brandStrength: 0.7611241897102445
+  lightness: 0.21060520177707076
+  saturation: 0.3599816523492336
+  rhythmicContrast: 0.3187205533031374
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Digital Surf
